@@ -1,15 +1,13 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
-  "icons": [
-    {
-      "src": "favicon.ico",
-      "sizes": "64x64 32x32 24x24 16x16",
-      "type": "image/x-icon"
-    }
-  ],
-  "start_url": ".",
-  "display": "standalone",
-  "theme_color": "#000000",
-  "background_color": "#ffffff"
+  "main.js": "render-page.js",
+  "main.js.map": "render-page.js.map",
+  "static/bp.jpg": "static/bp-499f50dec4841642356a009f5b61ef69.jpg",
+  "static/creator.png": "static/creator-ebaed1980426fa468ae2b6755e26f9d1.png",
+  "static/eng.png": "static/eng-6055cb088eb2486d11b2c4a33277454a.png",
+  "static/gmail.png": "static/gmail-2c1a7560c88ea83e6b2593cd07af8ad8.png",
+  "static/instagram.png": "static/instagram-4a8c23476a7c20c5bee2a752a6f96e9e.png",
+  "static/medium.png": "static/medium-1765dd735c778ed177846440805b9dfd.png",
+  "static/reddit.png": "static/reddit-ecb0612a80c5bde48f7d396456d31afc.png",
+  "static/twitter.png": "static/twitter-8f35a40403a84631c4125c4f1859c7a6.png",
+  "static/writer.jpg": "static/writer-c0a0ae05af09e532a58e4aef749beb44.jpg"
 }
