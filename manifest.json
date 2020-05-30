@@ -1,14 +1,14 @@
 {
   "main.js": "render-page.js",
   "main.js.map": "render-page.js.map",
-  "static/bp.jpg": "static/bp-d6d507bd0d2c81b2f4c5f7eefb61b0ee.jpg",
-  "static/creator.png": "static/creator-5aab793cc62a28d8b221ae5952a4d47f.png",
-  "static/eng.jpg": "static/eng-cbfd74b9167c455f3f903fa58405af9d.jpg",
+  "static/bp.webp": "static/bp-07a0ec7fe8ef0cfd2477fa7084a3357d.webp",
+  "static/creator.webp": "static/creator-c054a24327a0a4af83d0ebb1aa24cbaa.webp",
+  "static/eng.webp": "static/eng-6c507b0202782473acc14dfe4cf3b1c5.webp",
   "static/github.png": "static/github-ae5c3217156f753662fff3c5df62110c.png",
   "static/gmail.png": "static/gmail-2c1a7560c88ea83e6b2593cd07af8ad8.png",
   "static/instagram.png": "static/instagram-4a8c23476a7c20c5bee2a752a6f96e9e.png",
   "static/medium.png": "static/medium-1765dd735c778ed177846440805b9dfd.png",
   "static/reddit.png": "static/reddit-ecb0612a80c5bde48f7d396456d31afc.png",
   "static/twitter.png": "static/twitter-8f35a40403a84631c4125c4f1859c7a6.png",
-  "static/writer.jpg": "static/writer-1f105445dc6c055fbfdd27e0e9df2975.jpg"
+  "static/writer.webp": "static/writer-e3fcd16f8352cf3d4fa507591e28c9f9.webp"
 }
