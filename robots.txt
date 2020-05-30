@@ -1,4 +1,3 @@
 User-agent: *
 
-//need to create a sitemap
 sitemap: https://www.ashmeetsehgal.com/sitemap.xml
