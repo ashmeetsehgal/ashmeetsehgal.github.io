@@ -1,8 +1,8 @@
 {
   "main.js": "render-page.js",
   "main.js.map": "render-page.js.map",
-  "static/bp.webp": "static/bp-07a0ec7fe8ef0cfd2477fa7084a3357d.webp",
-  "static/creator.webp": "static/creator-c054a24327a0a4af83d0ebb1aa24cbaa.webp",
-  "static/eng.webp": "static/eng-6c507b0202782473acc14dfe4cf3b1c5.webp",
-  "static/writer.webp": "static/writer-e3fcd16f8352cf3d4fa507591e28c9f9.webp"
+  "static/bp.jpg": "static/bp-14cd8ef0aaa55b4438d6de1ee94e9386.jpg",
+  "static/creator.jpg": "static/creator-a481769ab44787661dc2bd0d76c45291.jpg",
+  "static/eng.jpg": "static/eng-955185fbb34e1407768b468d3110f62f.jpg",
+  "static/writer.jpg": "static/writer-ff8a026c3fb9e58c0df3ab117e10a30a.jpg"
 }
